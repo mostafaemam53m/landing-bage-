@@ -3,4 +3,6 @@ This is my first js project. It may be very modest, but I think it's a good star
 You can view the demo project live from this link
 # Demo-Preview
 
-a demo/preview(https://mostafaemam53m.github.io/landing-bage-/)
+To browse the project online
+from this link
+https://mostafaemam53m.github.io/landing-bage-/
